@@ -1,8 +1,6 @@
-"use client"; // Mark this component as a client component
-
+"use client"; 
 
 import { Provider } from "@/components/ui/provider";
-import { ChakraProvider } from "@chakra-ui/react";
 import { useRouter } from "next/navigation";
 import { useEffect } from "react";
 
